@@ -1,2 +1,4 @@
 # cmpt-compass
-Compact view of the Ontario Compass website http://www.mto.gov.on.ca/english/traveller/trip/compass.shtml
+View the COMPASS pictures in a nice, responsive way.
+
+live demo: http://markkeller.me/cmpt-compass/
